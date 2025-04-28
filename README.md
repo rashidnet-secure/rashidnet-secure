@@ -45,7 +45,7 @@
     <img src="https://www.logo.wine/a/logo/Fortinet/Fortinet-Logo.wine.svg" alt="Fortinet" width="40" height="40" background-color="white" />
   </a>
   <a href="https://www.pfsense.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/PfSense_logo.png" alt="pfSense" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/PfSense_logo.png" alt="pfSense" width="100" height="40" />
   </a>
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40" />
